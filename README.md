@@ -1,6 +1,6 @@
 # Kubernetes Node-Local DNS Cache
 
-This is the repository for [Kubernetes Node-Local DNS Cache](https://kubernetes.io/docs/tasks/administer-cluster/nodelocaldns/), forked from OSS to test sync.
+This is the repository for [Kubernetes Node-Local DNS Cache](https://kubernetes.io/docs/tasks/administer-cluster/nodelocaldns/), forked from OSS to test sync, for test branch.
 
 ## Building
 
